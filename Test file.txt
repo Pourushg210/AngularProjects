@@ -1,0 +1,15 @@
+Test file
+
+******************************* Git Learning*************************************
+
+1. If we want to get code from git, we have to clone the repositary from git
+  1.1 > Open terminal
+  1.2 > Open git repo and select code
+  1.3 > Select repo url
+  1.4 > run command : git clone "repo address"
+
+2. Git branch command used to show your current branch
+3. git checkout -b "Branch name". This command creates a new branch from the branch where you have 
+run this command.
+4. Once we make changes to any file or create a new one, we are required to push these changes back to 
+git. For this purpose, we have to use push command.
