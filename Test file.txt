@@ -13,3 +13,7 @@ Test file
 run this command.
 4. Once we make changes to any file or create a new one, we are required to push these changes back to 
 git. For this purpose, we have to use push command.
+   4.1 > Run command git add <fileName> or git add -A for all files
+   4.2 > check status with git status
+   4.3 > Commit these changes with "git commit -m 'Messages informing your changes'"
+   4.4 > Now push them into git branch you are using "git push origin <branch>" 
